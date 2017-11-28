@@ -9,7 +9,7 @@ The python script will be timeconsuming running the first time, as it has to dow
 
 ### Prerequisites
 
-Have a Linux machine (not sure if this works for Windows because the script uses diff)
+Have a Unix machine (not sure if this works for Windows because the script uses diff)
 
 Have Python 2.7 (not sure if this works for Python 3)
 
