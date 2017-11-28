@@ -5,7 +5,7 @@ Tester for MeeshQuest's Automated Canonical Tester
 
 This short python script first goes through all of the existing tests on the ACT and downloads all of the tests you currently don't have.
 The script then runs your jar file with all of the tests, and uses diff to compare the ACT output and your jar file's output.
-The python script will be timeconsuming running the first time, as it has to download all of the tests. I ran the script fresh against 2500 test for part 2, and it took several minutes.
+The python script will be timeconsuming running the first time, as it has to download all of the tests. I ran the script fresh against 2500 tests for part 2, and it took several minutes.
 
 ### Prerequisites
 
