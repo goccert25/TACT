@@ -45,3 +45,7 @@ python TACT.py JARFILE.jar
 ## Contributing
 
 Feel free to make a pull request/get in contact with me if you have improvements. This code was written up in 2 hours, so I know it's not the best
+
+## Known Problems
+
+TACT doesn't place nice when invalid input is given to the ACT. You could fail a lot of tests because points we're simply put too close together.
