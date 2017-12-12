@@ -26,7 +26,7 @@ Set up [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * In Launch Configuration dropdown, choose 'MeeshQuest - PROJECT_NAME_YOU_ARE_EXPORTING'
 * Make the export destination the same folder TACT.py is in and click Finish
 
-3) Place the relevant part_.xsd file in the same folder as TACT.py
+3) Place the relevant part*.xsd file in the same folder as TACT.py, as well as the relevant *.xsl file if needed
 
 4) In the TACT.py file, the base_url variable should be changed to the relevant part you are on
 
@@ -48,4 +48,4 @@ Feel free to make a pull request/get in contact with me if you have improvements
 
 ## Known Problems
 
-TACT doesn't place nice when invalid input is given to the ACT. You could fail a lot of tests because points we're simply put too close together.
+(For part 2) TACT doesn't place nice when invalid input is given to the ACT. You could fail a lot of tests because points were simply put too close together.
